@@ -1,0 +1,10 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+2667;19931111;19991231;Köln/Bonn;RWS_10;Summe der Niederschlagsh. der vorangeg.10Min;mm;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+2667;19991231;20081126;Köln/Bonn;RWS_10;Summe der Niederschlagsh. der vorangeg.10Min;mm;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+2667;20081202;20240826;Köln/Bonn;RWS_10;Summe der Niederschlagsh. der vorangeg.10Min;mm;aus Messnetz2000;HHMM UTC;;;eor;
+2667;20090708;20240826;Köln/Bonn;RWS_DAU_10;Niederschlagsdauer 10min;Minute;aus Messnetz2000;HHMM UTC;;;eor;
+2667;19931111;19991231;Köln/Bonn;RWS_IND_10;Niederschlagsindikator  10min;numerischer Code;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);;;;eor;
+2667;19991231;20081126;Köln/Bonn;RWS_IND_10;Niederschlagsindikator  10min;numerischer Code;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+2667;20090708;20240826;Köln/Bonn;RWS_IND_10;Niederschlagsindikator  10min;numerischer Code;aus Messnetz2000;HHMM UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 26.08.2024 --  Deutscher Wetterdienst  --

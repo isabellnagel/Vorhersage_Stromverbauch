@@ -1,0 +1,18 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+433;19950601;19991231;Berlin-Tempelhof;PP_10;Luftdruck in Stationshoehe der voran. 10 min;hpa;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+433;20000101;20081120;Berlin-Tempelhof;PP_10;Luftdruck in Stationshoehe der voran. 10 min;hpa;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+433;20081118;20240826;Berlin-Tempelhof;PP_10;Luftdruck in Stationshoehe der voran. 10 min;hpa;aus Messnetz2000;HHMM UTC;;;eor;
+433;19950601;19991231;Berlin-Tempelhof;RF_10;relative Feucht in 2m Hoehe;%;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+433;20000101;20081120;Berlin-Tempelhof;RF_10;relative Feucht in 2m Hoehe;%;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+433;20081121;20240826;Berlin-Tempelhof;RF_10;relative Feucht in 2m Hoehe;%;aus Messnetz2000;HHMM UTC;;;eor;
+433;19950601;19991231;Berlin-Tempelhof;TD_10;Taupunkttemperatur in 2m Hoehe;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+433;20000101;20081120;Berlin-Tempelhof;TD_10;Taupunkttemperatur in 2m Hoehe;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+433;20081126;20240826;Berlin-Tempelhof;TD_10;Taupunkttemperatur in 2m Hoehe;°C;aus Messnetz2000;HHMM UTC;;;eor;
+433;19950601;19991231;Berlin-Tempelhof;TM5_10;Momentane Temperatur in 5 cm Hoehe 10min;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+433;20000101;20081120;Berlin-Tempelhof;TM5_10;Momentane Temperatur in 5 cm Hoehe 10min;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+433;20081121;20240826;Berlin-Tempelhof;TM5_10;Momentane Temperatur in 5 cm Hoehe 10min;°C;aus Messnetz2000;HHMM UTC;;;eor;
+433;19950601;19991231;Berlin-Tempelhof;TT_10;momentane Lufttemperatur in 2m Hoehe;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten bis 31.12.1999 (Zeitbezug ist MEZ);HHMM MEZ;;;eor;
+433;20000101;20081120;Berlin-Tempelhof;TT_10;momentane Lufttemperatur in 2m Hoehe;°C;10-Minutenwerte von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten ab 01.01.2000 (Zeitbezug ist UTC);HHMM UTC;;;eor;
+433;20081121;20240826;Berlin-Tempelhof;TT_10;momentane Lufttemperatur in 2m Hoehe;°C;aus Messnetz2000;HHMM UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 26.08.2024 --  Deutscher Wetterdienst  --
