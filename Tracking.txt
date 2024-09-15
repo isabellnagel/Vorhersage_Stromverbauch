@@ -1,3 +1,0 @@
-- Sorting and merging football data
-- dwd: extracting data nrw, berlin, Hamburg, bayern (münchen); dabei: 
---> Überprüfung der Metadaten: Beschreibung von fehlenden Werten
