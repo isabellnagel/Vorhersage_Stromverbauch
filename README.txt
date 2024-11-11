@@ -1,7 +1,8 @@
 ######################################################
 Aufbau
 ######################################################
-Dieses Repositiory enthält Daten und Code:
+Dieses Repositiory prognostiziert den deutschlandweiten Stromverbrauch während der EM 2024 anhand ausgewählter
+Machine Learning Modelle:
 
 ## Daten ##
 
@@ -11,8 +12,7 @@ Dieses Repositiory enthält Daten und Code:
 
 ## Code ##
 
-- main.ipynb: Hauptcode, welcher auszuführen ist, um Ergebnisse der Modelle
-  Lineare Regression, Random Forest und LSTM zu erhalten. Bezieht Funktionen aus restlichen Jupyter Notebooks
+- main.ipynb: Hauptcode, welcher auszuführen ist, um Ergebnisse der Modelle Lineare Regression, Random Forest und LSTM zu erhalten. 
 
 - Preprocessing.ipynb: Funktionen zu Preprocessing
 - feature_engineering.ipynb: Funktionen zu Feature Engineering
